@@ -1,6 +1,4 @@
-calculator do
-  first_number = get_variable_from_file
-end
+
 
 describe "./calculator.rb" do
 
